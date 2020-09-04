@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "482481132655",
+    "firebase_url": "https://fir-bectronix-a426c.firebaseio.com",
+    "project_id": "fir-bectronix-a426c",
+    "storage_bucket": "fir-bectronix-a426c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482481132655:android:af36a31d6683a15541299a",
+        "android_client_info": {
+          "package_name": "com.example.mysplashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482481132655-rdruisutn0askfsbuqm8rcud4rrcq32p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxuP93h5hg7rQwjxH4furG1h8ScrXKAkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482481132655-rdruisutn0askfsbuqm8rcud4rrcq32p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
